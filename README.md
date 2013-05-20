@@ -11,7 +11,7 @@ L'intégration de cet e-mail respecte les règles suivantes :
 
 *	Utilisation du Doctype HTML5 (mais testé aussi avec Doctype XHTML, et sans Doctype) (cf [Which doctype should I use in HTML email?](http://www.campaignmonitor.com/blog/post/3317/correct-doctype-to-use-in-html-email/))
 *	Ajout d'une ligne de 1000 espaces dans le `<head>` pour forcer le chargement complet sur iOS (cf [Two Ways to Ensure that Your Entire Email Is Rendered by Default in the iPhone & iPad](http://www.emailonacid.com/blog/details/C13/ensure_that_your_entire_email_is_rendered_by_default_in_the_iphone_ipad))
-*	Image de fond avec un span (cf [Background Colors in HTML Emails](http://www.emailonacid.com/blog/details/C13/background_colors_in_html_emails)
+*	Image de fond avec un span (cf [Background Colors in HTML Emails](http://www.emailonacid.com/blog/details/C13/background_colors_in_html_emails))
 *	Centrage des tableaux avec un `align="center" style="margin:0 auto;"` sur les balises `<table>` (pour surcharger les styles du webmail d'Orange)
 *	Centrage vertical dans une cellule `style="vertical-align:middle;"` sur les balises `<td>` (pour surcharger les styles du webmail d'Orange)
 *	Écriture des codes couleurs en hexa sur six caractères (cf [The Best Way to Code Background Colors for HTML Email](https://litmus.com/blog/background-colors-html-email))
